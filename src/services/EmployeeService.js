@@ -4,7 +4,7 @@ import axios from "axios";
 // https://cors-everywhere.herokuapp.com/http://myapi.com/v1/users
 
 
-const EMPLOYEE_API_BASE_URL = "https://cors-everywhere.herokuapp.com/http://emprestapi-env.eba-rsrufapw.us-east-1.elasticbeanstalk.com/api/v1/employees"
+const EMPLOYEE_API_BASE_URL = "http://emprestapi-env.eba-rsrufapw.us-east-1.elasticbeanstalk.com/api/v1/employees"
 
 class EmployeeService {
 
